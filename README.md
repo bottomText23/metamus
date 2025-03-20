@@ -1,7 +1,7 @@
 # metamus
 Short python script for changing metadata of mp3 files.
 
-It requires the EyeD3 module to be installed on your computer.
+It requires the eyeD3 module to be installed on your computer.
 You can do this with `pip install eyed3`.
 
 The script will ask you to specify a directory in your `~/Music` folder.
